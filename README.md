@@ -1,6 +1,6 @@
 <h1 align="center">안녕하세요! 리더형 개발자 박재형입니다!</h1>
 <br/>
-<img src="https://private-user-images.githubusercontent.com/58213558/481339497-06c83a8d-74d2-4b20-ad79-ffcd9fe974ed.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYwMDIxNjEsIm5iZiI6MTc1NjAwMTg2MSwicGF0aCI6Ii81ODIxMzU1OC80ODEzMzk0OTctMDZjODNhOGQtNzRkMi00YjIwLWFkNzktZmZjZDlmZTk3NGVkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODI0VDAyMTc0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1OWRmZTA4MzQzMjkzNTUyYzEwMzJjODJlMjU4NDY4NjFlYWU3OTJhNjVlNWZiN2I2ZTdkY2MyMjdlYjA0NjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PmZs5Hrox-2Q7DBHhsISKnizp8WHx3V-0sLEK8Du5ng" style="border: 1px solid ;
+<img src="https://github.com/user-attachments/assets/06c83a8d-74d2-4b20-ad79-ffcd9fe974ed" style="border: 1px solid ;
 border-radius: 7px;">
 <h3 align="center">"세상의 모두는 편안하고 아름다운 프론트엔드를 누릴 권리가 있습니다."</h3>
 <p align="center">
